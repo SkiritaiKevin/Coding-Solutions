@@ -1,3 +1,6 @@
+# Assignment for CSC 341 (Open Software Application Development)
+# N/A
+
 import random
 import statistics 
 
