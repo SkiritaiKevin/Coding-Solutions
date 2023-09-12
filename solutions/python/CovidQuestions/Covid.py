@@ -1,3 +1,6 @@
+# Assignment for CSC 341 (Open Software Application Development)
+# N/A
+
 import os 
 
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
