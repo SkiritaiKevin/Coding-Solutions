@@ -1,3 +1,6 @@
+// Assignment for CSC 290 (Introduction to Data Structures and Algorithms)
+// N/A
+
 package assign3_generics;
 
 public class Assign3_Generics {
