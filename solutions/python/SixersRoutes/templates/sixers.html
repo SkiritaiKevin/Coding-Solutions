@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sixers</title>
+</head>
+<body>
+    <h1>Sixers Info Page</h1>
+    <h3>Sixers Roster:</h3>
+    {% for player in players %}
+        <h4>{{player.NAME}}</h4>
+        <div>{{player.NUM}} -- {{player.POS}}</div>
+        <div>{{player.HT}}</div>
+        <div>{{player.COLLEGE}}</div>
+    {% endfor %}
+</body>
+</html>
