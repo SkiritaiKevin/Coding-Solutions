@@ -2,7 +2,7 @@
 
 ## Total problems solved: 28
 
-Note that the table below is auto-generated. There might be slight inaccuracies.
+I update this manually so it may not be up to date!
 
 You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.
 
