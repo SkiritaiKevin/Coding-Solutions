@@ -10,6 +10,7 @@ Click on the language icons to see my solution in the specified language.
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
+|[Add Two Numbers (Easy)](https://open.kattis.com/problems/addtwonumbers)| addtwonumbers |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/AddTwoNumbers.java) | 
 |[Amerískur vinnustaður (Easy)](https://open.kattis.com/problems/ameriskur)| ameriskur |1.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/Ameriskur.py) | 
 |[Autori (Easy)](https://open.kattis.com/problems/autori)| autori |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Autori.java) | 
 |[Cold-puter Science (Easy)](https://open.kattis.com/problems/cold)| cold |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/ColdputerScience.java) | 
