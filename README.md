@@ -10,6 +10,7 @@ Click on the language icons to see my solution in the specified language.
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
+|[Framtíðar FIFA (Easy)](https://open.kattis.com/problems/fifa)| fifa |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Fifa.java) | 
 |[Hello World! (Easy)](https://open.kattis.com/problems/hello)| hello |1.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/hello.py) [![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Hello.java) [![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](solutions/javascript/hello.js) |
 |[Jack-O'-Lantern Juxtaposition (Easy)](https://open.kattis.com/problems/jackolanternjuxtaposition)| jackolanternjuxtaposition |1.2|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Jack.java) |
 |[Leggja saman (Easy)](https://open.kattis.com/problems/leggjasaman)| leggjasaman |1.2|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/LeggjaSaman.java) | 
