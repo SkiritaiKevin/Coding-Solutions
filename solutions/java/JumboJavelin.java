@@ -11,7 +11,7 @@ public class JumboJavelin {
         for(int i = 0; i < numRods; i++){
             sum += scnr.nextInt(); 
         }
-        int result = sum - numRods; 
+        int result = sum - (numRods - 1); 
         System.out.println(result); 
         scnr.close(); 
     }    
