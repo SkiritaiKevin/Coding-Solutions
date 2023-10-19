@@ -1,3 +1,12 @@
-This repository is a storage location for my coding problem solutions. It can range from Leetcode to Kattis to any coding sites. 
+# Kattis Solutions
 
-In 2020, I first began experimentation with programming using C and LUA. Ever since then, it has evolved into a major hobby of mine due to the satisfaction I feel when solving problems with a team that give me an great feeling of reward due to solving a difficult problem. To display my skill in logic-based coding problems, I have decided to create a hub for my achievements across many programming languages.
+## Total problems solved: 28
+
+Note that the table below is auto-generated. There might be slight inaccuracies.
+
+You might find [this link](https://stackoverflow.com/questions/42843288/is-there-any-way-to-make-markdown-tables-sortable) useful to interact with the table.
+
+|Problem Name|Problem ID|Difficulty|Languages|
+|:---|:---|:---|:---|
+|[1-D Frogger (Hard)](https://open.kattis.com/problems/1dfroggerhard)| 1dfroggerhard |8.8|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/1-D%20Frogger%20(Hard)/1dfroggerhard.py)|
+|[Hello World! (Easy)](https://open.kattis.com/problems/hello)| hello |1.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](src/1-D%20Frogger%20(Hard)/1dfroggerhard.py) ![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png) ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)|
