@@ -10,6 +10,7 @@ Click on the language icons to see my solution in the specified language.
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
+|[Autori (Easy)](https://open.kattis.com/problems/autori)| autori |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Autori.java) | 
 |[Cold-puter Science (Easy)](https://open.kattis.com/problems/cold)| cold |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/ColdputerScience.java) | 
 |[Framtíðar FIFA (Easy)](https://open.kattis.com/problems/fifa)| fifa |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Fifa.java) | 
 |[Hello World! (Easy)](https://open.kattis.com/problems/hello)| hello |1.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/hello.py) [![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Hello.java) [![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](solutions/javascript/hello.js) |
