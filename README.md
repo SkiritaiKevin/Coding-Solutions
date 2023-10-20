@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 31
+## Total problems solved: 32
 
 I update this manually so it may not be up to date!
 
@@ -38,6 +38,7 @@ Click on the language icons to see my solution in the specified language.
 |[Spritt (Easy)](https://open.kattis.com/problems/spritt)| spritt |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Spritt.java) | 
 |[Stuck In A Time Loop (Easy)](https://open.kattis.com/problems/timeloop)| timeloop |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TimeLoop.java) | 
 |[Take Two Stones (Easy)](https://open.kattis.com/problems/twostones)| twostones |1.5|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TakeTwoStones.java) | 
+|[Trik (Easy)](https://open.kattis.com/problems/trik)| trik |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Trik.java) | 
 |[Two-sum (Easy)](https://open.kattis.com/problems/twosum)| twosum |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TwoSum2.java) | 
 |[Velkomin (Easy)](https://open.kattis.com/problems/velkomin)| velkomin |1.1|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Velkomin,java) | 
 |[Viðsnúningur (Easy)](https://open.kattis.com/problems/vidsnuningur)| vidsnuningur |1.2|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Viosnuningur.java) | 
