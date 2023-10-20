@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 28
+## Total problems solved: 29
 
 I update this manually so it may not be up to date!
 
