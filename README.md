@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 34
+## Total problems solved: 35
 
 I update this manually so it may not be up to date!
 
@@ -19,6 +19,7 @@ Click on the language icons to see my solution in the specified language.
 |[Cold-puter Science (Easy)](https://open.kattis.com/problems/cold)| cold |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/ColdputerScience.java) |
 |[Digit Swap (Easy)](https://open.kattis.com/problems/digitswap)| digitswap |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/DigitSwap.java) | 
 |[Echo Echo Echo (Easy)](https://open.kattis.com/problems/echoechoecho)| echoechoecho |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/EchoEchoEcho.java) | 
+|[Fifty Shades of Pink (Easy)](https://open.kattis.com/problems/fiftyshades)| fiftyshades |1.5|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/FiftyShadesOfPink.java) | 
 |[Finding An A (Easy)](https://open.kattis.com/problems/findingana)| findingana |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/FindingAnA.java) | 
 |[Framtíðar FIFA (Easy)](https://open.kattis.com/problems/fifa)| fifa |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Fifa.java) | 
 |[FYI (Easy)](https://open.kattis.com/problems/fyi)| fyi |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/FYI.java) | 
