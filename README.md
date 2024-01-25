@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 37
+## Total problems solved: 38
 
 I update this manually so it may not be up to date!
 
@@ -42,7 +42,8 @@ Click on the language icons to see my solution in the specified language.
 |[Spavanac (Easy](https://open.kattis.com/problems/spavanac)| spavanac |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Spavanac.java) |
 |[Spritt (Easy)](https://open.kattis.com/problems/spritt)| spritt |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Spritt.java) | 
 |[Stuck In A Time Loop (Easy)](https://open.kattis.com/problems/timeloop)| timeloop |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TimeLoop.java) | 
-|[Take Two Stones (Easy)](https://open.kattis.com/problems/twostones)| twostones |1.5|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TakeTwoStones.java) | 
+|[Take Two Stones (Easy)](https://open.kattis.com/problems/twostones)| twostones |1.5|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TakeTwoStones.java) |
+|[Tölvunarfræðingar telja (Easy)](https://open.kattis.com/problems/tolvunarfraedingartelja)| tolvunarfraedingartelja |1.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/tolvunarfraedingartelja.py) |
 |[Trik (Easy)](https://open.kattis.com/problems/trik)| trik |1.4|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Trik.java) | 
 |[Two-sum (Easy)](https://open.kattis.com/problems/twosum)| twosum |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/TwoSum2.java) | 
 |[Velkomin (Easy)](https://open.kattis.com/problems/velkomin)| velkomin |1.1|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](solutions/c++/velkomin.cpp) [![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Velkomin,java) | 
