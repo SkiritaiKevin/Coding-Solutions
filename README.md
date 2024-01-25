@@ -10,7 +10,7 @@ Click on the language icons to see my solution in the specified language.
 
 |Problem Name|Problem ID|Difficulty|Languages|
 |:---|:---|:---|:---|
-|[Á leið í bíó (Easy)](https://open.kattis.com/problems/aleidibio)| aleidibio |1.2|[!py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/aleidibio.py) | 
+|[Á leið í bíó (Easy)](https://open.kattis.com/problems/aleidibio)| aleidibio |1.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/aleidibio.py) | 
 |[Add Two Numbers (Easy)](https://open.kattis.com/problems/addtwonumbers)| addtwonumbers |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/AddTwoNumbers.java) | 
 |[Adding Trouble (Easy)](https://open.kattis.com/problems/addingtrouble)| addingtrouble |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/AddingTrouble.java) | 
 |[Amerískur vinnustaður (Easy)](https://open.kattis.com/problems/ameriskur)| ameriskur |1.3|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/Ameriskur.py) | 
