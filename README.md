@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 36
+## Total problems solved: 37
 
 I update this manually so it may not be up to date!
 
@@ -32,6 +32,7 @@ Click on the language icons to see my solution in the specified language.
 |[Knight Packing (Easy)](https://open.kattis.com/problems/knightpacking)| knightpacking |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/KnightPacking.java) | 
 |[Leggja saman (Easy)](https://open.kattis.com/problems/leggjasaman)| leggjasaman |1.2|[![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png)](solutions/c++/leggjasaman.cpp) [![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/LeggjaSaman.java) | 
 |[Metronome (Easy)](https://open.kattis.com/problems/metronome)| metronome |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Metronome.java) | 
+|[Millifærsla (Easy)](https://open.kattis.com/problems/millifaersla)| millifaersla |1.2|[![py](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_24x24.png)](solutions/python/millifaersla.py)
 |[Odd Echo (Easy)](https://open.kattis.com/problems/oddecho)| oddecho |1.4|[![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)](solutions/javascript/oddecho.js) | 
 |[Óvissa (Easy)](https://open.kattis.com/problems/ovissa)| ovissa |1.2|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/Ovissa.java) | 
 |[Quadrant Selection (Easy)](https://open.kattis.com/problems/quadrant)| quadrant |1.3|[![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_24x24.png)](solutions/java/QuadrantSelection.java) | 
